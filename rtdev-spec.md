@@ -10,7 +10,7 @@ Acesse clicand aqui [🤖]("leonardo.ai"), a tecnologia que utilizei.
 Utilizando um prompt simples, que aprendi com a live ao vivo na Dio.
 
 ## 🚀 Resultados
-Acesse clicando aqui [🚀]("https://ibb.co/VpmFNjr")
+Acesse clicando aqui [🚀]("ibb.co/VpmFNjr")
 
 ## 💭 Reflexão (Opcional)
 É incrível o potêncial tecnologia das IA Generativas.
